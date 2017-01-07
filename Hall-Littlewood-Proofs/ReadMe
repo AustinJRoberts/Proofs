@@ -1,0 +1,4 @@
+All files in this folder are meant to communicate the computer aided proof of Lemma 3.1 in the paper "On the Schur expansion of Hall-Littlewood and related polynomials via Yamanouchi words."
+The pdf includes a walk through with graph visualizations and computer outputs after running the program.
+The .sws file is a Sage math file. To run it, you may need to open a free account at sagemath.com.
+
